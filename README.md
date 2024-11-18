@@ -113,5 +113,5 @@ If you have the interest you can reach me through email: pana.wang@outlook.com
 MIT
 
 
-[npm-image]: https://img.shields.io/npm/v/nrm.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/nrm
+[npm-image]: https://img.shields.io/npm/v/@daiyam/nrm.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/@daiyam/nrm

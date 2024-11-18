@@ -220,6 +220,8 @@ function onUse (name) {
         });
     } else {
         printMsg(['', '   Not find registry: ' + name, '']);
+        
+        process.exit(1);
     }
 }
 
